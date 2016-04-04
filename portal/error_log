@@ -1,0 +1,336 @@
+[17-Jul-2014 17:18:49 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/royald/public_html/portal/index.php on line 9
+[17-Jul-2014 17:19:33 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 9
+[17-Jul-2014 17:19:33 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 9
+[17-Jul-2014 17:19:33 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 9
+[17-Jul-2014 17:19:33 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 9
+[17-Jul-2014 17:19:33 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 9
+[17-Jul-2014 17:19:35 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 9
+[17-Jul-2014 17:19:35 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 9
+[17-Jul-2014 17:19:35 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 9
+[17-Jul-2014 17:19:35 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 9
+[17-Jul-2014 17:19:35 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 9
+[17-Jul-2014 17:19:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 9
+[17-Jul-2014 17:19:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 9
+[17-Jul-2014 17:19:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 9
+[17-Jul-2014 17:19:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 9
+[17-Jul-2014 17:19:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 9
+[17-Jul-2014 17:20:17 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:17 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:17 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:17 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:17 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:17 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:17 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:17 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:17 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:17 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:17 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:19 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:19 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:19 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:19 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:19 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:19 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:19 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:19 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:19 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:19 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:19 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:36 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:38 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:20:56 Australia/Melbourne] PHP Notice:  Undefined variable: title in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:15 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:31 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:31 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:31 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:31 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:31 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:31 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:31 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:31 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:31 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:31 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:21:47 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:21:47 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:21:47 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:21:47 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:21:47 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:21:47 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:21:47 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:21:47 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:21:47 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:21:47 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 12
+[17-Jul-2014 17:22:12 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:12 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:12 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:12 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:12 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:12 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:12 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:12 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:12 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:12 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:13 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:13 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:13 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:13 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:13 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:13 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:13 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:13 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:13 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:13 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:19 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:19 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:19 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:19 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:19 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:19 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:19 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:19 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:19 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:19 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:20 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:20 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:20 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:20 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:20 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:20 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:20 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:20 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:20 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:20 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:27 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:27 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:27 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:27 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:27 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:27 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:27 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:27 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:27 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:27 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:28 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:28 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:28 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:28 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:28 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:28 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:28 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:28 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:28 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:28 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:29 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:29 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:29 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:29 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:29 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:29 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:29 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:29 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:29 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:29 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 15
+[17-Jul-2014 17:22:35 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:35 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:35 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:35 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:35 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:35 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:35 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:35 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:35 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:35 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:39 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:39 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:39 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:39 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:39 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:39 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:39 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:39 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:39 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:39 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:52 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:52 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:52 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:52 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:52 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:52 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:52 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:52 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:52 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:22:52 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 16
+[17-Jul-2014 17:23:37 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:37 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:37 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:37 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:37 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:37 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:37 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:37 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:37 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:37 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:38 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:40 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:40 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:40 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:40 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:40 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:40 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:40 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:40 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:40 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:40 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:23:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 17
+[17-Jul-2014 17:24:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:43 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'id' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:24:58 Australia/Melbourne] PHP Warning:  Illegal string offset 'title' in /home/royald/public_html/portal/index.php on line 18
+[17-Jul-2014 17:26:05 Australia/Melbourne] PHP Notice:  Undefined variable: row in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:26:05 Australia/Melbourne] PHP Notice:  Undefined variable: row in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:26:06 Australia/Melbourne] PHP Notice:  Undefined variable: row in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:26:06 Australia/Melbourne] PHP Notice:  Undefined variable: row in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:26:06 Australia/Melbourne] PHP Notice:  Undefined variable: row in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:26:06 Australia/Melbourne] PHP Notice:  Undefined variable: row in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:26:08 Australia/Melbourne] PHP Notice:  Undefined variable: row in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:26:08 Australia/Melbourne] PHP Notice:  Undefined variable: row in /home/royald/public_html/portal/index.php on line 11
+[17-Jul-2014 17:29:14 Australia/Melbourne] PHP Notice:  A non well formed numeric value encountered in /home/royald/public_html/portal/index.php on line 24
+[17-Jul-2014 17:29:14 Australia/Melbourne] PHP Notice:  A non well formed numeric value encountered in /home/royald/public_html/portal/index.php on line 24
+[17-Jul-2014 17:29:32 Australia/Melbourne] PHP Warning:  date() expects parameter 2 to be long, string given in /home/royald/public_html/portal/index.php on line 24
+[17-Jul-2014 17:29:32 Australia/Melbourne] PHP Notice:  A non well formed numeric value encountered in /home/royald/public_html/portal/index.php on line 24

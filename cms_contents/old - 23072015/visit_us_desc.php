@@ -1,0 +1,2 @@
+ <p><strong>446 BRUNSWICK STREET FITZROY</strong><br /><br /><strong>OPENING HOURS</strong><br />Monday to Thursday - 3pm to Late<br />Friday - 12pm to Late&nbsp;<br />Saturday - 12pm to Late<br />Sunday - 12pm to 11pm</p>
+<p><strong>PHONE: 03 9417 2321</strong><br /><strong>enquiries@royalderbyhotel.com.au</strong></p> 

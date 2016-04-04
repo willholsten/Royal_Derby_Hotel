@@ -1,0 +1,185 @@
+
+/**********************************************
+MEDIA QUERY - 480px
+**********************************************/
+
+@media screen and (min-width: 480px) {
+/**************************
+HOMEPAGE
+**************************/
+
+.day-specials ul {
+	width: 100%;
+	justify-content: center;
+	margin-top: 75px;
+
+}
+
+.day-specials li {
+	width: 43%;
+}
+
+
+.newsletter input {
+	display: inline-block;
+	margin: 0 10px;
+	width: 400px;
+}
+
+.register {
+	display: inline-block;
+	margin-right: 15px;
+}
+
+#submit {
+	display: inline-block;
+	width: 150px;
+}
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/**********************************************
+MEDIA QUERY - 780
+**********************************************/
+
+@media screen and (min-width: 780px) {
+
+/**************************
+HOMEPAGE
+**************************/
+
+.table {
+	display: inline-table;
+	padding: 0;
+	margin: 0;
+}
+
+.menu_link {
+	display: inline-block;
+}
+
+.mobile-nav {
+	display: none;
+}
+
+.container {
+	width: 90%;
+	margin: 0 auto;
+	margin-top: 20px;
+	justify-content: space-between;
+}
+
+.footer-contact {
+	display: inline-block;
+	float: left;
+	width: 40%;
+}
+
+.hours {
+	display: inline-block;
+	float: right;
+	width: 40%;
+}
+
+.hours h3 {
+	text-align: right;
+}
+
+.company {
+	display: block;
+	margin: 0 auto;
+	clear: both;
+	text-align: center;
+	margin-top: 200px;
+	width: 60%;
+}
+
+.company p {
+	display: inline-block;
+	padding: 0 20px;
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+/**********************************************
+MEDIA QUERY - 1020px
+**********************************************/
+
+@media all and (min-width: 1025px) {
+
+/**************************
+HOMEPAGE
+**************************/
+.social-header {
+	top: 80px;
+	right: 140px;
+}
+
+#menu {
+	width: 80%;
+}
+
+
+.bx-wrapper img {
+	width: 80%;
+}
+
+.day-specials ul {
+	width: 80%;
+}
+
+.day-specials li {
+	width: 31%;
+	margin: 20px auto;
+}
+
+.map {
+	width: 100%;
+	height: 500px;
+	margin: 50px 0 0;
+}
+
+.map-overlay {
+   height:510px; /* your iframe height */
+   top:550px;  /* your iframe height */
+   margin-top:-300px;  /* your iframe height */
+}
+
+
+.container {
+	width: 60%;
+
+}
+
+.company {
+
+}
+
+
+
+}
